@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Shivam
+# 👋 Hi, I'm Shivam I'm gay
 
 ### 📊 Aspiring Data Analyst | Data Science Learner | MCA Student
 
-> Turning raw data into meaningful insights, one project at a time.
-
-I'm currently pursuing my **MCA** and building my skills in **Data Analytics, Python, SQL, Excel, Power BI, and Statistics**.
+> Tng my **MCA** and building my skills in **Data Analytics, Python, SQL, Excel, Power BI, and Statistics**.
 
 I'm focused on learning by building real-world projects and gradually developing the skills required to become a **Data Analyst**.
 
