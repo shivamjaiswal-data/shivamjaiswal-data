@@ -109,3 +109,7 @@ I'm focused on learning by building real-world projects and gradually developing
                   │
                   ▼
             🚀 DATA ANALYST
+
+
+Contribution Graph:
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
